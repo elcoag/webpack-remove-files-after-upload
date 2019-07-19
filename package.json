@@ -1,6 +1,5 @@
 {
   "_from": "webpack-remove-files-after-upload",
-  "_id": "webpack-remove-files-after-upload@0.0.1",
   "_inBundle": false,
   "_integrity": "sha512-iu8TlRRqtTXAfhb3TbAhJGaxikaCbKSGgzJism6ruQ01MSMChwOVZMaF0wUqHbdER/1qPjEnX3iu3srfD+fojg==",
   "_location": "/webpack-remove-files-after-upload",
@@ -23,9 +22,7 @@
   "_shasum": "7959a0275bd208d02906d4e0884102b6a780106b",
   "_spec": "webpack-remove-files-after-upload",
   "_where": "G:\\Webteam\\npm\\elcoag\\rfaup-testrepo",
-  "author": {
-    "name": "ELCO AG"
-  },
+  "author": "ELCO AG",
   "bundleDependencies": false,
   "deprecated": false,
   "description": "Removes files from dist folder after uploaded to server",
@@ -43,5 +40,12 @@
     "url": "https://github.com/elcowebteam/webpack-remove-files-after-upload/issues"
   },
   "homepage": "https://github.com/elcowebteam/webpack-remove-files-after-upload#readme",
-  "version": "0.0.1"
+  "version": "0.0.3",
+  "keywords": [
+    "webpack",
+    "scp-webpack-plugin"
+  ],
+  "dependencies": {
+    "scp-webpack-plugin": "^1.0.0"
+  }
 }
