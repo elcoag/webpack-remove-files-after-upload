@@ -40,7 +40,7 @@
     "url": "https://github.com/elcowebteam/webpack-remove-files-after-upload/issues"
   },
   "homepage": "https://github.com/elcowebteam/webpack-remove-files-after-upload#readme",
-  "version": "0.0.3",
+  "version": "0.0.31",
   "keywords": [
     "webpack",
     "scp-webpack-plugin"
