@@ -18,7 +18,7 @@
     "#DEV:/",
     "#USER"
   ],
-  "_resolved": "https://registry.npmjs.org/webpack-remove-files-after-upload/-/webpack-remove-files-after-upload-0.0.32.tgz",
+  "_resolved": "https://registry.npmjs.org/webpack-remove-files-after-upload/-/webpack-remove-files-after-upload-0.0.33.tgz",
   "_shasum": "7959a0275bd208d02906d4e0884102b6a780106b",
   "_spec": "webpack-remove-files-after-upload",
   "_where": "G:\\Webteam\\npm\\elcoag\\rfaup-testrepo",
@@ -40,7 +40,7 @@
     "url": "https://github.com/elcowebteam/webpack-remove-files-after-upload/issues"
   },
   "homepage": "https://github.com/elcowebteam/webpack-remove-files-after-upload#readme",
-  "version": "0.0.32",
+  "version": "0.0.33",
   "keywords": [
     "webpack",
     "scp-webpack-plugin"
