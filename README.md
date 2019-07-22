@@ -6,7 +6,7 @@
 <h2 align="left">Usage</h2>
 <p>In your webpack.config.js use the plugin as you would scp-webpack-plugin</p>
 
-```
+```javascript
 const RemoveFilesAfterUpload = require('webpack-remove-files-after-upload');
 
 module.exports = {
