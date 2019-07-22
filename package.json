@@ -4,7 +4,7 @@
   "deprecated": false,
   "description": "Removes files from dist folder after uploaded to server",
   "license": "MIT",
-  "main": "src/index.js",
+  "main": "index.js",
   "name": "webpack-remove-files-after-upload",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,7 +17,7 @@
     "url": "https://github.com/elcowebteam/webpack-remove-files-after-upload/issues"
   },
   "homepage": "https://github.com/elcowebteam/webpack-remove-files-after-upload#readme",
-  "version": "0.0.32",
+  "version": "0.0.33",
   "keywords": [
     "webpack",
     "scp-webpack-plugin"
